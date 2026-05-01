@@ -89,7 +89,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel to
 ---
 
 ## 📁 Files Included
--Excel file[Amazon-Sales-Analysis.xlsx](https://raw.githubusercontent.com/akshay-code10/Amazon-Sales-Dashboard/refs/heads/main/Amazon-Sales-Analysis.xlsx)
+Excel file[Amazon-Sales-Analysis.xlsx](https://raw.githubusercontent.com/akshay-code10/Amazon-Sales-Dashboard/refs/heads/main/Amazon-Sales-Analysis.xlsx)
 
 ---
 
