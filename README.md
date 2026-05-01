@@ -72,11 +72,19 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel to
 ## 📷 Dashboard Preview
 <img width="1898" height="958" alt="Screenshot 2026-05-01 092238" src="https://github.com/user-attachments/assets/aa8b6f57-25d4-4fc3-98c9-448b19b995d7" />
 
+
+
 <img width="1911" height="944" alt="Screenshot 2026-05-01 092306" src="https://github.com/user-attachments/assets/0ea790ee-84b4-484d-b375-4f2be355d241" />
+
+
 
 <img width="1919" height="996" alt="Screenshot 2026-05-01 092321" src="https://github.com/user-attachments/assets/60a145f2-8889-44ea-b30d-79e382ae3659" />
 
+
+
 <img width="1326" height="515" alt="Screenshot 2026-05-01 092433" src="https://github.com/user-attachments/assets/661a8748-73c3-45c6-91ce-b828f8aa3c6b" />
+
+
 
 ---
 
