@@ -1,4 +1,4 @@
-# Amazon-Sales-Dashboard
+# Amazon E-Commerce Sales Analysis
 Excel Sales Dashboard project using data cleaning, pivot tables, and interactive visualizations to generate business insights.
 
 ---
