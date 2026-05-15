@@ -95,7 +95,8 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel to
 
 ## 👨‍💻 Author
 Akshay  
-
-🔗 LinkedIn: https://linkedin.com/in/akshay-441242311 
+ 
+- 💼 LinkedIn: https://linkedin.com/in/akshay-441242311
+- 🧑‍💻 GitHub: https://github.com/akshay-code10/akshay-code10
 
 💡 Turning data into insights for better business decisions.
