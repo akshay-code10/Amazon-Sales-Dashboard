@@ -11,7 +11,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel to
 ---
 
 ## 🎯 Objectives
-- Clean and prepare raw sales data  
+- Clean and prepare raw sales data
 - Analyze sales performance across regions and categories  
 - Identify trends, patterns, and key business insights  
 - Build an interactive dashboard for data exploration  
